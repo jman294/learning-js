@@ -1,0 +1,10 @@
+#type-input:focus {
+	border: none;
+	outline: none;
+	resize: none;
+}
+#type-input {
+	border: none;
+	outline: none;
+	resize: none;
+}
